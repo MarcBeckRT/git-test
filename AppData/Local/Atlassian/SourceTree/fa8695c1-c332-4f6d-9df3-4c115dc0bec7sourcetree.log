@@ -1,0 +1,13 @@
+2021-05-21T19:23:45: LogHost: Initializing to normal mode
+2021-05-21T19:23:47: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-05-21T19:23:47: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-05-21T19:23:48: Could not obtain git dir,  is not a git repo.
+2021-05-21T19:23:49: ScrollToItem idx:0 scrollHeight=51 offset=
+2021-05-21T19:23:50: 21.05.2021 19:23:50 : REFRESHING DIFF
+2021-05-21T19:23:56: Trying without host
+2021-05-21T19:23:56: Trying without host
+2021-05-21T19:24:03: Could not obtain git dir, C:\Uni\Webtechnologien\Projekt- AllinOneTrash\aion/ss21-team1 is not a git repo.
+2021-05-21T19:24:03: Could not obtain git dir, C:\Uni\Webtechnologien\Projekt- AllinOneTrash\aion/ss21-team1 is not a git repo.
+2021-05-21T19:24:04: 21.05.2021 19:24:04 : REFRESHING DIFF
+2021-05-21T19:24:04: ScrollToItem idx:1 scrollHeight=52 offset=.76
+2021-05-21T19:24:04: 21.05.2021 19:24:04 : REFRESHING DIFF

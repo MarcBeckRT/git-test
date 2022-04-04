@@ -1,0 +1,92 @@
+2021-04-30T11:22:54: LogHost: Initializing to normal mode
+2021-04-30T11:22:57: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-04-30T11:22:57: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-04-30T11:22:58: Could not obtain git dir,  is not a git repo.
+2021-04-30T11:23:00: ScrollToItem idx:0 scrollHeight= offset=
+2021-04-30T11:23:22: Trying without host
+2021-04-30T11:23:22: Trying without host
+2021-04-30T11:23:36: ScrollToItem idx:0 scrollHeight=5 offset=
+2021-04-30T11:33:01: Checking remote repositories...
+2021-04-30T11:43:01: Checking remote repositories...
+2021-04-30T11:43:01: Trying without host
+2021-04-30T11:43:07: Trying without host
+2021-04-30T11:53:14: Checking remote repositories...
+2021-04-30T11:53:14: Trying without host
+2021-04-30T11:53:21: Trying without host
+2021-04-30T12:03:28: Checking remote repositories...
+2021-04-30T12:03:28: Trying without host
+2021-04-30T12:03:34: Trying without host
+2021-04-30T12:13:40: Checking remote repositories...
+2021-04-30T12:13:40: Trying without host
+2021-04-30T12:13:47: Trying without host
+2021-04-30T12:23:53: Checking remote repositories...
+2021-04-30T12:23:53: Trying without host
+2021-04-30T12:23:59: Trying without host
+2021-04-30T12:34:06: Checking remote repositories...
+2021-04-30T12:34:06: Trying without host
+2021-04-30T12:34:12: Trying without host
+2021-04-30T12:44:19: Checking remote repositories...
+2021-04-30T12:44:19: Trying without host
+2021-04-30T12:44:24: Trying without host
+2021-04-30T12:45:10: ScrollToItem idx:1 scrollHeight=5 offset=.24
+2021-04-30T12:45:10: 30.04.2021 12:45:10 : REFRESHING DIFF
+2021-04-30T12:45:11: ScrollToItem idx:1 scrollHeight=5 offset=.24
+2021-04-30T12:47:16: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-04-30T12:47:17: 30.04.2021 12:47:17 : REFRESHING DIFF
+2021-04-30T12:47:17: ScrollToItem idx:0 scrollHeight=12 offset=
+2021-04-30T12:47:17: 30.04.2021 12:47:17 : REFRESHING DIFF
+2021-04-30T12:47:18: 30.04.2021 12:47:18 : REFRESHING DIFF
+2021-04-30T12:47:43: Trying without host
+2021-04-30T12:47:43: Trying without host
+2021-04-30T12:48:01: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-04-30T12:48:02: ScrollToItem idx:0 scrollHeight=13 offset=
+2021-04-30T12:48:07: 30.04.2021 12:48:07 : REFRESHING DIFF
+2021-04-30T12:48:07: 30.04.2021 12:48:07 : REFRESHING DIFF
+2021-04-30T12:48:28: Trying without host
+2021-04-30T12:49:02: 30.04.2021 12:49:02 : REFRESHING DIFF
+2021-04-30T12:49:06: 30.04.2021 12:49:06 : REFRESHING DIFF
+2021-04-30T12:49:20: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-04-30T12:49:37: 30.04.2021 12:49:37 : REFRESHING DIFF
+2021-04-30T12:49:37: ScrollToItem idx:1 scrollHeight=7 offset=.3
+2021-04-30T12:49:38: 30.04.2021 12:49:38 : REFRESHING DIFF
+2021-04-30T12:49:49: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-04-30T12:50:02: 30.04.2021 12:50:02 : REFRESHING DIFF
+2021-04-30T12:50:02: ScrollToItem idx:1 scrollHeight=7 offset=.3
+2021-04-30T12:50:03: 30.04.2021 12:50:03 : REFRESHING DIFF
+2021-04-30T12:50:05: Trying without host
+2021-04-30T12:50:05: Trying without host
+2021-04-30T12:50:17: 30.04.2021 12:50:17 : REFRESHING DIFF
+2021-04-30T12:50:18: ScrollToItem idx:1 scrollHeight=7 offset=.3
+2021-04-30T12:50:18: 30.04.2021 12:50:18 : REFRESHING DIFF
+2021-04-30T12:54:31: Checking remote repositories...
+2021-04-30T12:54:31: Trying without host
+2021-04-30T13:04:46: Checking remote repositories...
+2021-04-30T13:04:46: Trying without host
+2021-04-30T13:04:56: Trying without host
+2021-04-30T13:15:02: Checking remote repositories...
+2021-04-30T13:15:02: Trying without host
+2021-04-30T13:15:08: Trying without host
+2021-04-30T13:25:14: Checking remote repositories...
+2021-04-30T13:25:14: Trying without host
+2021-04-30T13:25:21: Trying without host
+2021-04-30T13:35:27: Checking remote repositories...
+2021-04-30T13:35:27: Trying without host
+2021-04-30T13:35:34: Trying without host
+2021-04-30T13:45:40: Checking remote repositories...
+2021-04-30T13:45:40: Trying without host
+2021-04-30T13:45:46: Trying without host
+2021-04-30T13:55:52: Checking remote repositories...
+2021-04-30T13:55:53: Trying without host
+2021-04-30T13:55:58: Trying without host
+2021-04-30T14:03:33: Trying without host
+2021-04-30T14:03:39: 30.04.2021 14:03:39 : REFRESHING DIFF
+2021-04-30T14:03:39: 30.04.2021 14:03:39 : REFRESHING DIFF
+2021-04-30T14:06:05: Checking remote repositories...
+2021-04-30T14:06:05: Trying without host
+2021-04-30T17:27:09: Trying without host
+2021-04-30T17:27:09: Trying without host
+2021-04-30T17:27:14: Could not obtain git dir, C:\Uni\Webtechnologien\Projekt- AllinOneTrash\aion/ss21-team1 is not a git repo.
+2021-04-30T17:27:14: Could not obtain git dir, C:\Uni\Webtechnologien\Projekt- AllinOneTrash\aion/ss21-team1 is not a git repo.
+2021-04-30T17:27:14: 30.04.2021 17:27:14 : REFRESHING DIFF
+2021-04-30T17:27:14: ScrollToItem idx:1 scrollHeight=9 offset=.36
+2021-04-30T17:27:14: 30.04.2021 17:27:14 : REFRESHING DIFF

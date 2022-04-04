@@ -1,0 +1,50 @@
+2021-04-29T15:28:36: LogHost: Initializing to normal mode
+2021-04-29T15:28:37: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-04-29T15:28:38: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-04-29T15:28:38: Could not obtain git dir,  is not a git repo.
+2021-04-29T15:28:39: ScrollToItem idx:0 scrollHeight= offset=
+2021-04-29T15:28:47: Trying without host
+2021-04-29T15:28:47: Trying without host
+2021-04-29T15:29:18: ScrollToItem idx:0 scrollHeight= offset=
+2021-04-29T15:38:40: Checking remote repositories...
+2021-04-29T15:41:10: Trying without host
+2021-04-29T15:41:10: Trying without host
+2021-04-29T15:41:21: ScrollToItem idx:0 scrollHeight= offset=
+2021-04-29T15:48:40: Checking remote repositories...
+2021-04-29T15:48:40: Trying without host
+2021-04-29T15:58:47: Checking remote repositories...
+2021-04-29T15:58:47: Trying without host
+2021-04-29T15:58:52: Trying without host
+2021-04-29T16:08:58: Checking remote repositories...
+2021-04-29T16:08:58: Trying without host
+2021-04-29T16:09:04: Trying without host
+2021-04-29T16:19:10: Checking remote repositories...
+2021-04-29T16:19:10: Trying without host
+2021-04-29T16:19:17: Trying without host
+2021-04-29T16:29:24: Checking remote repositories...
+2021-04-29T16:29:24: Trying without host
+2021-04-29T16:29:34: Trying without host
+2021-04-29T16:39:40: Checking remote repositories...
+2021-04-29T16:39:40: Trying without host
+2021-04-29T16:39:46: Trying without host
+2021-04-29T16:49:58: Checking remote repositories...
+2021-04-29T16:49:58: Trying without host
+2021-04-29T16:50:04: Trying without host
+2021-04-29T17:00:10: Checking remote repositories...
+2021-04-29T17:00:10: Trying without host
+2021-04-29T17:00:17: Trying without host
+2021-04-29T17:10:24: Checking remote repositories...
+2021-04-29T17:10:24: Trying without host
+2021-04-29T17:10:32: Trying without host
+2021-04-29T17:20:40: Checking remote repositories...
+2021-04-29T17:20:40: Trying without host
+2021-04-29T17:20:46: Trying without host
+2021-04-29T17:30:52: Checking remote repositories...
+2021-04-29T17:30:52: Trying without host
+2021-04-29T17:30:58: Trying without host
+2021-04-29T17:41:03: Checking remote repositories...
+2021-04-29T17:41:03: Trying without host
+2021-04-29T17:41:10: Trying without host
+2021-04-29T17:51:17: Checking remote repositories...
+2021-04-29T17:51:17: Trying without host
+2021-04-29T17:51:22: Trying without host

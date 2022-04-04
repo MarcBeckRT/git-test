@@ -1,0 +1,145 @@
+00:00:00.001385 main     VirtualBox COM Server 6.0.14 r133895 win.amd64 (Oct 10 2019 19:44:31) release log
+00:00:00.001390 main     Log opened 2020-01-07T07:21:13.047749500Z
+00:00:00.001391 main     Build Type: release
+00:00:00.001400 main     OS Product: Windows 10
+00:00:00.001402 main     OS Release: 10.0.18362
+00:00:00.001404 main     OS Service Pack: 
+00:00:00.030503 main     DMI Product Name: HP ProBook 450 G6
+00:00:00.049513 main     DMI Product Version:  
+00:00:00.049525 main     Host RAM: 16254MB (15.8GB) total, 12444MB (12.1GB) available
+00:00:00.049535 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.049536 main     Process ID: 17360
+00:00:00.049537 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.158146          VirtualBox: object creation starts
+00:00:00.158696          Home directory: 'C:\Users\Mark Beck\.VirtualBox'
+00:00:00.158869          Installed Drivers:
+00:00:00.164672            C:\windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.0.14.33895)
+00:00:00.165607            C:\windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.0.14.33895)
+00:00:00.166216            C:\windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.0.14.33895)
+00:00:00.167341            C:\windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.0.14.33895)
+00:00:00.176483          Loading settings file "C:\Users\Mark Beck\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.225644          Getting USB descriptor (id 0) failed with error 31
+00:00:00.225797          Getting USB descriptor (id 0) failed with error 31
+00:00:00.225911          Getting USB descriptor (id 0) failed with error 31
+00:00:00.228672          USB: Unknown USB device detected (idVendor: 0x04ca, idProduct: 0x7095)
+00:00:00.228747          USB: Unknown USB device detected (idVendor: 0x06cb, idProduct: 0x00b7)
+00:00:00.228800          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xb00b)
+00:00:00.412322          HostDnsMonitor::updateInfo
+00:00:00.412352          HostDnsMonitor: old information
+00:00:00.412356            no server entries
+00:00:00.412358            no domain set
+00:00:00.412359            no search string entries
+00:00:00.412360          HostDnsMonitor: new information
+00:00:00.412361            server 1: 134.103.76.11
+00:00:00.412363            server 2: 134.103.76.13
+00:00:00.412364            domain: fh-reutlingen.de
+00:00:00.412365            no search string entries
+00:00:00.546870          VD: VDInit finished with VINF_SUCCESS
+00:00:00.559404          Loading settings file "C:\Users\Mark Beck\VirtualBox VMs\dbUeb\dbUeb.vbox" with version "1.12-windows"
+00:00:00.561493          VirtualBox: object created
+00:00:02.373469          Saving settings file "C:\Users\Mark Beck\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.397663          Saving settings file "C:\Users\Mark Beck\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:11.067998          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:12.566249 USBPROXY Getting USB descriptor (id 0) failed with error 31
+00:00:12.566387 USBPROXY Getting USB descriptor (id 0) failed with error 31
+00:00:12.566525 USBPROXY Getting USB descriptor (id 0) failed with error 31
+00:00:17.506282          Saving settings file "C:\Users\Mark Beck\VirtualBox VMs\dbUeb\dbUeb.vbox" with version "1.12-windows"
+00:14:50.028552 dns-monitor HostDnsMonitor::updateInfo
+00:14:50.028604 dns-monitor HostDnsMonitor: unchanged
+00:21:38.748465 MainPower Host suspending: Paused 1 VMs
+00:23:11.049952 MainPower Host resumed: Resumed 1 VMs
+00:23:12.740020 dns-monitor HostDnsMonitor::updateInfo
+00:23:12.740088 dns-monitor HostDnsMonitor: old information
+00:23:12.740093 dns-monitor   server 1: 134.103.76.11
+00:23:12.740097 dns-monitor   server 2: 134.103.76.13
+00:23:12.740101 dns-monitor   domain: fh-reutlingen.de
+00:23:12.740146 dns-monitor   no search string entries
+00:23:12.740152 dns-monitor HostDnsMonitor: new information
+00:23:12.740155 dns-monitor   server 1: 134.103.76.11
+00:23:12.740159 dns-monitor   server 2: 134.103.76.13
+00:23:12.740162 dns-monitor   no domain set
+00:23:12.740165 dns-monitor   no search string entries
+00:23:16.518162 dns-monitor HostDnsMonitor::updateInfo
+00:23:16.518183 dns-monitor HostDnsMonitor: old information
+00:23:16.518186 dns-monitor   server 1: 134.103.76.11
+00:23:16.518190 dns-monitor   server 2: 134.103.76.13
+00:23:16.518192 dns-monitor   no domain set
+00:23:16.518195 dns-monitor   no search string entries
+00:23:16.518197 dns-monitor HostDnsMonitor: new information
+00:23:16.518199 dns-monitor   server 1: 134.103.76.11
+00:23:16.518202 dns-monitor   server 2: 134.103.76.13
+00:23:16.518204 dns-monitor   domain: fh-reutlingen.de
+00:23:16.518207 dns-monitor   no search string entries
+00:38:16.516696 dns-monitor HostDnsMonitor::updateInfo
+00:38:16.516739 dns-monitor HostDnsMonitor: unchanged
+00:40:35.204125 MainPower Host suspending: Paused 1 VMs
+00:43:59.719078 MainPower Host resumed: Resumed 1 VMs
+00:43:59.734530 dns-monitor HostDnsMonitor::updateInfo
+00:43:59.734608 dns-monitor HostDnsMonitor: old information
+00:43:59.734622 dns-monitor   server 1: 134.103.76.11
+00:43:59.734634 dns-monitor   server 2: 134.103.76.13
+00:43:59.734642 dns-monitor   domain: fh-reutlingen.de
+00:43:59.734650 dns-monitor   no search string entries
+00:43:59.734658 dns-monitor HostDnsMonitor: new information
+00:43:59.734666 dns-monitor   server 1: 134.103.76.11
+00:43:59.734674 dns-monitor   server 2: 134.103.76.13
+00:43:59.734683 dns-monitor   no domain set
+00:43:59.734690 dns-monitor   no search string entries
+00:44:03.244610 dns-monitor HostDnsMonitor::updateInfo
+00:44:03.244631 dns-monitor HostDnsMonitor: old information
+00:44:03.244634 dns-monitor   server 1: 134.103.76.11
+00:44:03.244638 dns-monitor   server 2: 134.103.76.13
+00:44:03.244640 dns-monitor   no domain set
+00:44:03.244642 dns-monitor   no search string entries
+00:44:03.244645 dns-monitor HostDnsMonitor: new information
+00:44:03.244647 dns-monitor   server 1: 134.103.76.11
+00:44:03.244650 dns-monitor   server 2: 134.103.76.13
+00:44:03.244652 dns-monitor   domain: fh-reutlingen.de
+00:44:03.244655 dns-monitor   no search string entries
+00:56:09.525338 dns-monitor HostDnsMonitor::updateInfo
+00:56:09.525485 dns-monitor HostDnsMonitor: unchanged
+01:10:52.892884 MainPower Host suspending: Paused 1 VMs
+01:15:28.936140 dns-monitor HostDnsMonitor::updateInfo
+01:15:28.936213 dns-monitor HostDnsMonitor: old information
+01:15:28.936226 dns-monitor   server 1: 134.103.76.11
+01:15:28.936236 dns-monitor   server 2: 134.103.76.13
+01:15:28.936248 dns-monitor   domain: fh-reutlingen.de
+01:15:28.936256 dns-monitor   no search string entries
+01:15:28.936265 dns-monitor HostDnsMonitor: new information
+01:15:28.936272 dns-monitor   server 1: 134.103.76.11
+01:15:28.936280 dns-monitor   server 2: 134.103.76.13
+01:15:28.936288 dns-monitor   no domain set
+01:15:28.936296 dns-monitor   no search string entries
+01:15:29.210948 MainPower Host resumed: Resumed 1 VMs
+01:15:32.411084 dns-monitor HostDnsMonitor::updateInfo
+01:15:32.411132 dns-monitor HostDnsMonitor: old information
+01:15:32.411139 dns-monitor   server 1: 134.103.76.11
+01:15:32.411146 dns-monitor   server 2: 134.103.76.13
+01:15:32.411152 dns-monitor   no domain set
+01:15:32.411157 dns-monitor   no search string entries
+01:15:32.411162 dns-monitor HostDnsMonitor: new information
+01:15:32.411167 dns-monitor   server 1: 134.103.76.11
+01:15:32.411172 dns-monitor   server 2: 134.103.76.13
+01:15:32.411177 dns-monitor   domain: fh-reutlingen.de
+01:15:32.411182 dns-monitor   no search string entries
+01:30:32.520985 dns-monitor HostDnsMonitor::updateInfo
+01:30:32.521132 dns-monitor HostDnsMonitor: unchanged
+01:45:32.598040 dns-monitor HostDnsMonitor::updateInfo
+01:45:32.598088 dns-monitor HostDnsMonitor: unchanged
+01:51:04.768365          Saving settings file "C:\Users\Mark Beck\VirtualBox VMs\dbUeb\dbUeb.vbox" with version "1.12-windows"
+01:51:07.825926          Saving settings file "C:\Users\Mark Beck\VirtualBox VMs\dbUeb\dbUeb.vbox" with version "1.12-windows"
+01:51:07.893297          Saving settings file "C:\Users\Mark Beck\VirtualBox VMs\dbUeb\dbUeb.vbox" with version "1.12-windows"
+01:51:26.990386          Saving settings file "C:\Users\Mark Beck\VirtualBox VMs\dbUeb\dbUeb.vbox" with version "1.12-windows"
+01:51:27.036983          Saving settings file "C:\Users\Mark Beck\VirtualBox VMs\dbUeb\dbUeb.vbox" with version "1.12-windows"
+01:51:27.079536          Saving settings file "C:\Users\Mark Beck\VirtualBox VMs\dbUeb\dbUeb.vbox" with version "1.12-windows"
+02:00:32.678893 dns-monitor HostDnsMonitor::updateInfo
+02:00:32.679059 dns-monitor HostDnsMonitor: unchanged
+02:15:32.760920 dns-monitor HostDnsMonitor::updateInfo
+02:15:32.760988 dns-monitor HostDnsMonitor: unchanged
+02:28:11.721305          Saving settings file "C:\Users\Mark Beck\VirtualBox VMs\dbUeb\dbUeb.vbox" with version "1.12-windows"
+02:28:11.742996          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+02:28:11.756406          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+02:28:11.836972 SaveState Saving settings file "C:\Users\Mark Beck\VirtualBox VMs\dbUeb\dbUeb.vbox" with version "1.12-windows"
+02:28:12.391800          Saving settings file "C:\Users\Mark Beck\VirtualBox VMs\dbUeb\dbUeb.vbox" with version "1.12-windows"
+02:28:14.756939          Saving settings file "C:\Users\Mark Beck\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+02:28:14.771557          Saving settings file "C:\Users\Mark Beck\.VirtualBox\VirtualBox.xml" with version "1.12-windows"

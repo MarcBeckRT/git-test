@@ -1,0 +1,11 @@
+2021-05-14T14:52:51: LogHost: Initializing to normal mode
+2021-05-14T14:52:52: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-05-14T14:52:53: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-05-14T14:52:53: Could not obtain git dir,  is not a git repo.
+2021-05-14T14:52:54: ScrollToItem idx:0 scrollHeight=28 offset=
+2021-05-14T14:53:11: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-05-14T14:53:12: ScrollToItem idx:0 scrollHeight=33 offset=
+2021-05-14T14:53:12: 14.05.2021 14:53:12 : REFRESHING DIFF
+2021-05-14T14:54:17: Trying without host
+2021-05-14T14:54:23: 14.05.2021 14:54:23 : REFRESHING DIFF
+2021-05-14T14:54:23: 14.05.2021 14:54:23 : REFRESHING DIFF

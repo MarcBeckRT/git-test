@@ -1,0 +1,38 @@
+2021-04-26T10:22:03: LogHost: Initializing to normal mode
+2021-04-26T10:22:07: Could not obtain git dir,  is not a git repo.
+2021-04-26T10:22:09: ScrollToItem idx:0 scrollHeight= offset=
+2021-04-26T10:22:20: Trying without host
+2021-04-26T10:22:20: Trying without host
+2021-04-26T10:22:40: ScrollToItem idx:0 scrollHeight=106 offset=
+2021-04-26T10:23:42: ScrollToItem idx:1 scrollHeight=106 offset=.87
+2021-04-26T10:23:43: ScrollToItem idx:1 scrollHeight=106 offset=.87
+2021-04-26T10:24:32: Trying without host
+2021-04-26T10:24:32: Trying without host
+2021-04-26T10:24:46: ScrollToItem idx:2 scrollHeight=107 offset=1.74
+2021-04-26T10:32:11: Checking remote repositories...
+2021-04-26T10:33:04: Trying without host
+2021-04-26T10:33:09: Trying without host
+2021-04-26T10:33:11: LogHost: SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2021-04-26T10:33:11: LogHost: have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2021-04-26T10:33:11: LogHost: and friends will appear to 'miss' items
+2021-04-26T10:33:32: Trying without host
+2021-04-26T10:33:36: Trying without host
+2021-04-26T10:34:35: Trying without host
+2021-04-26T10:34:43: Trying without host
+2021-04-26T10:34:43: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-04-26T10:34:44: ScrollToItem idx:2 scrollHeight=107 offset=1.74
+2021-04-26T10:34:45: ScrollToItem idx:0 scrollHeight= offset=
+2021-04-26T10:34:45: 26.04.2021 10:34:45 : REFRESHING DIFF
+2021-04-26T10:34:53: Trying without host
+2021-04-26T10:34:53: Trying without host
+2021-04-26T10:35:04: 26.04.2021 10:35:04 : REFRESHING DIFF
+2021-04-26T10:35:04: ScrollToItem idx:0 scrollHeight= offset=
+2021-04-26T10:35:05: 26.04.2021 10:35:05 : REFRESHING DIFF
+2021-04-26T10:42:11: Checking remote repositories...
+2021-04-26T10:42:11: Trying without host
+2021-04-26T10:52:17: Checking remote repositories...
+2021-04-26T10:52:17: Trying without host
+2021-04-26T10:52:24: Trying without host
+2021-04-26T11:02:30: Checking remote repositories...
+2021-04-26T11:02:30: Trying without host
+2021-04-26T11:02:38: Trying without host

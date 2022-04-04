@@ -1,0 +1,17 @@
+00:00:00.162949 VirtualBox GUI VM Selector Window 6.0.14 r133895 win.amd64 (Oct 10 2019 19:44:31) release log
+00:00:00.162952 Log opened 2020-01-14T15:24:04.686683200Z
+00:00:00.162953 Build Type: release
+00:00:00.162956 OS Product: Windows 10
+00:00:00.162958 OS Release: 10.0.18362
+00:00:00.162958 OS Service Pack: 
+00:00:00.181393 DMI Product Name: HP ProBook 450 G6
+00:00:00.188621 DMI Product Version:  
+00:00:00.188635 Host RAM: 16254MB (15.8GB) total, 10431MB (10.1GB) available
+00:00:00.188645 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.188646 Process ID: 11328
+00:00:00.188647 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.188865 Qt version: 5.6.2
+00:00:00.214837 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.723496 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:05.872025 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:06.047010 GUI: UIMediumEnumerator: Medium-enumeration finished!

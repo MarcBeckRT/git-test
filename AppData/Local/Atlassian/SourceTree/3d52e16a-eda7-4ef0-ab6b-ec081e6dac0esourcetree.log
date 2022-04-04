@@ -1,0 +1,42 @@
+2021-05-03T10:24:27: LogHost: Initializing to normal mode
+2021-05-03T10:24:29: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-05-03T10:24:30: Could not obtain git dir,  is not a git repo.
+2021-05-03T10:24:30: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-05-03T10:24:32: ScrollToItem idx:0 scrollHeight= offset=
+2021-05-03T10:24:33: 03.05.2021 10:24:33 : REFRESHING DIFF
+2021-05-03T10:24:40: Trying without host
+2021-05-03T10:24:40: Trying without host
+2021-05-03T10:24:51: 03.05.2021 10:24:51 : REFRESHING DIFF
+2021-05-03T10:24:51: ScrollToItem idx:0 scrollHeight=13 offset=
+2021-05-03T10:24:51: 03.05.2021 10:24:51 : REFRESHING DIFF
+2021-05-03T10:34:33: Checking remote repositories...
+2021-05-03T10:44:33: Checking remote repositories...
+2021-05-03T10:44:33: Trying without host
+2021-05-03T10:44:40: Trying without host
+2021-05-03T10:54:47: Checking remote repositories...
+2021-05-03T10:54:47: Trying without host
+2021-05-03T10:54:53: Trying without host
+2021-05-03T11:05:00: Checking remote repositories...
+2021-05-03T11:05:00: Trying without host
+2021-05-03T11:05:07: Trying without host
+2021-05-03T11:15:13: Checking remote repositories...
+2021-05-03T11:15:13: Trying without host
+2021-05-03T11:15:20: Trying without host
+2021-05-03T11:25:27: Checking remote repositories...
+2021-05-03T11:25:27: Trying without host
+2021-05-03T11:25:35: Trying without host
+2021-05-03T11:35:45: Checking remote repositories...
+2021-05-03T11:35:45: Trying without host
+2021-05-03T11:35:52: Trying without host
+2021-05-03T11:45:59: Checking remote repositories...
+2021-05-03T11:45:59: Trying without host
+2021-05-03T11:46:04: Trying without host
+2021-05-03T11:56:08: Checking remote repositories...
+2021-05-03T11:56:08: Trying without host
+2021-05-03T11:56:12: Trying without host
+2021-05-03T12:06:16: Checking remote repositories...
+2021-05-03T12:06:16: Trying without host
+2021-05-03T12:06:21: Trying without host
+2021-05-03T12:10:05: Trying without host
+2021-05-03T12:10:13: 03.05.2021 12:10:13 : REFRESHING DIFF
+2021-05-03T12:10:13: 03.05.2021 12:10:13 : REFRESHING DIFF
